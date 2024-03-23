@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Pham Truong Son 
+* Student ID: BA11-086
 * Student Group ID: Not-for-now
